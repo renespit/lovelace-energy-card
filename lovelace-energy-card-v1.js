@@ -1,3 +1,5 @@
+# Thanks to: https://community.home-assistant.io/t/tutorials-how-to-develop-a-custom-card-and-ship-hacs-repositories/526566 
+
 class EnergyCard extends HTMLElement {
 
     _config;
