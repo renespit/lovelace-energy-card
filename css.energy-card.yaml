@@ -1,0 +1,48 @@
+|
+        :host {
+            background-color: transparent !important;
+        }
+        ha-card {
+            box-shadow: none !important;
+            background-color: #333 !important;
+            background-image: linear-gradient(#666, #111);
+        }
+        table {
+            border-spacing: 0px;
+            margin-left: 24px;            
+            width: 90%;
+        }
+        tr {
+            max-height: 10px;
+            padding: 0px;
+        }
+        td.pname {
+            font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
+            font-size: 18px;
+            width: 33%;
+            max-height: 10px;
+            padding: 0px;
+        }
+        td.vname {
+            font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
+            font-size: 18px;
+            text-align: right;
+            width: 33%;
+            max-height: 10px;
+            padding: 0px;
+        }
+        td.graphic {
+            font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
+            font-size: 18px;
+            text-align: right;
+            width: 33%;
+            max-height: 10px;
+            padding: 0px;
+        }        
+        div.graphic {
+            font-size: 2px;
+            background-color: orange; 
+            float: right;
+            max-height: 10px;
+        }
+
